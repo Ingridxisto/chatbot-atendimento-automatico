@@ -65,6 +65,7 @@ Seleção de destinos disponíveis utilizando carrossel interativo.
 Apresentação dos planos de viagem conforme o destino escolhido.
 
 ![Planos de viagem](screenshots/planos-conversa2.png)
+![Planos de viagem](screenshots/planos.png)
 
 ### 📍 Validação de CEP
 Validação de endereço utilizando integração com a API ViaCEP.
