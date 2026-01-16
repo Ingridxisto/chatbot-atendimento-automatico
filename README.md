@@ -51,6 +51,40 @@ O chatbot permite que o usuário explore destinos de viagem de forma interativa,
 
 ---
 
+### 🟢 Início da Conversa
+Tela inicial do chatbot, apresentando a mensagem de boas-vindas e orientando o usuário sobre as opções disponíveis.
+
+![Início da conversa](screenshots/inicio-conversa.png)
+
+### 🧭 Seleção de Destinos
+Seleção de destinos disponíveis utilizando carrossel interativo.
+
+![Seleção de destinos](screenshots/destinos-conversa.png)
+
+### 🏖️ Planos de Viagem
+Apresentação dos planos de viagem conforme o destino escolhido.
+
+![Planos de viagem](screenshots/planos-conversa2.png)
+
+### 📍 Validação de CEP
+Validação de endereço utilizando integração com a API ViaCEP.
+
+![Validação de CEP](screenshots/validacao-cep-conversa.png)
+
+### ❌ Tratamento de Erro
+Tratamento de erro quando o usuário informa um CEP inválido.
+
+![Erro de CEP](screenshots/erro-cep.png)
+
+### ✅ Encerramento da Conversa
+Mensagem de encerramento do atendimento ao usuário.
+
+![Encerramento da conversa](screenshots/fim-da-conversa.png)
+
+> Imagens adicionais dos fluxos conversacionais desenvolvidos no Builder do BLiP estão disponíveis na pasta `/screenshots`.
+
+---
+
 ## 🧠 Aprendizados
 - Design e organização de fluxos conversacionais
 - Controle de estado em chatbots
