@@ -99,6 +99,10 @@ Mensagem de encerramento do atendimento ao usuário.
 ## 🎥 Demonstração
 No vídeo do projeto é possível visualizar a interação completa com o chatbot, desde a escolha do destino até a navegação pelos fluxos.
 
+[![Demonstração do Chatbot](screenshots/tela-inicial.png)](https://www.linkedin.com/posts/ingridxisto_chatbot-blip-automaaexaeto-activity-7417257557414670336-6c3g)
+
+> Clique na imagem para assistir à demonstração completa do chatbot no LinkedIn.
+
 ---
 
 ## 🔗 Acesso ao Chatbot
